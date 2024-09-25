@@ -2,7 +2,7 @@
   "name": "monlycee.net-api",
   "version": "0.0.1-alpha",
   "description": "a sample API to connect to my ENT",
-  "main": "test.js",
+  "main": "lib/core.js",
   "directories": {
     "lib": "lib"
   },
